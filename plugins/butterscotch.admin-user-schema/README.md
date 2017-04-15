@@ -1,4 +1,4 @@
-## butterscotch.add-posts
+## butterscotch.admin-user-schema
 
 ### Introduction
 
